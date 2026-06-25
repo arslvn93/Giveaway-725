@@ -41,7 +41,7 @@ const config = {
         "alt": "Romantic dinner table set at a cozy London restaurant"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/wfm7h61t6drmy0cyy0ssrq3y9r.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Screenshot2026-06-25at2.11.31PM.png",
         "alt": "Close-up of colorful, spice-rich dishes on a shared table"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782411152885_0",
+      "id": "q_auto_1782411235679_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782411152885_1",
+      "id": "q_auto_1782411235679_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782411152885_2",
+      "id": "q_auto_1782411235679_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
