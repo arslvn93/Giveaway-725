@@ -126,7 +126,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close July 25, 2026 at 11:59 PM ET. We draw the winner on July 25, 2026."
+        "a": "Entries close July 24, 2026 at 11:59 PM ET. We draw the winner on July 25, 2026."
       },
       {
         "q": "How will I know if I win?",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782414562527_0",
+      "id": "q_auto_1782414604937_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782414562527_1",
+      "id": "q_auto_1782414604937_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782414562527_2",
+      "id": "q_auto_1782414604937_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
