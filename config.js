@@ -72,12 +72,12 @@ const config = {
       },
       {
         "icon": "fas fa-receipt",
-        "text": "No bill up to $300, just enjoy"
+        "text": "Up to $300, just enjoy"
       }
     ],
     "name": "Basha Restobar Private Dining Experience for Two",
     "value": "$300 Value",
-    "description": "Picture this: a cozy table, warm plates, and deep, rich spices. You share stories. You laugh. You feel at home. This local spot in London, ON serves big flavor with heart. Enjoy great food without the bill. Make it a date night or a special celebration. You choose.",
+    "description": "Picture this: a cozy table, warm plates, and deep, rich spices. You share stories. You laugh. You feel at home. This local spot in London, ON serves big flavor with heart. Enjoy great food. Make it a date night or a special celebration. You choose.",
     "limitedTimeOfferText": "Limited time local giveaway, ends July 25, 2026!",
     "ctaButtonText": "I Want This Dinner!"
   },
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782411235679_0",
+      "id": "q_auto_1782412219957_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782411235679_1",
+      "id": "q_auto_1782412219957_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782411235679_2",
+      "id": "q_auto_1782412219958_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
