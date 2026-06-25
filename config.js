@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782414604937_0",
+      "id": "q_auto_1782414642183_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782414604937_1",
+      "id": "q_auto_1782414642183_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782414604937_2",
+      "id": "q_auto_1782414642183_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -274,7 +274,7 @@ const config = {
       "phone": "5484891097",
       "email": "olu@waldnerrealestate.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Olumide Somide at Real Broker Ontario LTD and is not affiliated with Dinner for two at Basha Restobar, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-07-25 at 11:59 PM ET. Winner selected at random on 2026-07-25. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Olumide Somide at Real Broker Ontario LTD and is not affiliated with Dinner for two at Basha Restobar, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-07-24 at 11:59 PM ET. Winner selected at random on 2026-07-25. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/pending/onboarding/1781106076649-Real Logo Outline White.png",
     "secondaryLogoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/pending/onboarding/1781106076649-Real Logo Outline White.png",
     "secondaryLogoAlt": "Olumide Somide",
