@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Dinner for Two</span> at Basha Restobar in London!",
     "heroSubheadline": "Taste rich, bold flavors that feel like home. $300 value. Limited time. Entries close July 25, 2026.",
-    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/3bb8pd91e9rmr0cyy0sa9zjegw.jpg",
+    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Screenshot2026-06-25at2.07.45PM.png",
     "promotionDates": "Enter June 26, 2026 to July 25, 2026. Winner drawn July 25, 2026.",
     "endDate": "2026-07-26T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,21 +28,16 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Dinner for Two at Basha Restobar</strong> is in. We will draw the winner on July 25, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on July 25. Follow @soldbyolu for updates. Share this with a friend!"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/8n8h395by9rmw0cyy0sbna1spg.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Screenshot2026-06-25at2.10.28PM.png",
         "alt": "Romantic dinner table set at a cozy London restaurant"
       },
       {
@@ -54,7 +49,7 @@ const config = {
         "alt": "Smiling couple enjoying dinner at a local restobar"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/3pt13htfy9rmy0cyy0ta0canxm.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-474319254_122149399196360610_3015518762869951800_n.jpg",
         "alt": "Warm, welcoming dining room at a neighborhood restaurant"
       }
     ],
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18 or older. One entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Share the giveaway with friends and neighbors",
       "Follow @soldbyolu for updates"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18 or older. One entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "Every entry has the same chance to win. We use a random draw tool. No tricks. No bias."
@@ -182,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1782411152885_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1782411152885_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -230,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1782411152885_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Dinner for Two at Basha Restobar</strong> is in. We will draw the winner on July 25, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your email on July 25. Follow @soldbyolu for updates. Share this with a friend!"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/olumidesomiderealestate",
