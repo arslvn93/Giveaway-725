@@ -78,7 +78,7 @@ const config = {
     "name": "Basha Restobar Private Dining Experience for Two",
     "value": "$300 Value",
     "description": "Picture this: a cozy table, warm plates, and deep, rich spices. You share stories. You laugh. You feel at home. This local spot in London, ON serves big flavor with heart. Enjoy great food. Make it a date night or a special celebration. You choose.",
-    "limitedTimeOfferText": "Limited time local giveaway, ends July 25, 2026!",
+    "limitedTimeOfferText": "Limited time local giveaway, ends July 24, 2026!",
     "ctaButtonText": "I Want This Dinner!"
   },
   "howToEnter": {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782412320286_0",
+      "id": "q_auto_1782414447289_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782412320286_1",
+      "id": "q_auto_1782414447290_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782412320286_2",
+      "id": "q_auto_1782414447290_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
