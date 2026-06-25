@@ -153,7 +153,7 @@ const config = {
       "Double check your email for typos so we can reach you",
       "Think of who you would bring for a great night out",
       "Share the giveaway with friends and neighbors",
-      "Follow @soldbyolu for updates"
+      "Follow @soldbyolu on IG "
     ],
     "finePrintText": "Please read the fine print before entering. Ontario residents only. Must be 18 or older. One entry per person.",
     "showTipsSection": true,
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782412219957_0",
+      "id": "q_auto_1782412258591_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782412219957_1",
+      "id": "q_auto_1782412258591_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782412219958_2",
+      "id": "q_auto_1782412258591_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
