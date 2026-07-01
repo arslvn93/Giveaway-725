@@ -68,7 +68,7 @@ const config = {
       },
       {
         "icon": "fas fa-heart",
-        "text": "A warm night out that feels like home"
+        "text": "A warm night out that feels like your in Lebanon"
       },
       {
         "icon": "fas fa-receipt",
@@ -77,7 +77,7 @@ const config = {
     ],
     "name": "Basha Restobar Dining Experience for Two",
     "value": "$300 Value",
-    "description": "Picture this: a cozy table, warm plates, and deep, rich spices. You share stories. You laugh. You feel at home. This local spot in London, ON serves big flavor with heart. Enjoy great food. Make it a date night or a special celebration. You choose.",
+    "description": "Picture this: a cozy table, warm plates, and deep, rich spices. You share stories. You laugh. This local spot in London, ON serves big flavor with heart. Enjoy great food. Make it a date night or a special celebration. You choose.",
     "limitedTimeOfferText": "Limited time local giveaway, ends July 24, 2026!",
     "ctaButtonText": "I Want This Dinner!"
   },
@@ -90,7 +90,7 @@ const config = {
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer 4 Quick Questions",
+        "title": "Answer 3 Quick Questions",
         "description": "Tell us a bit about your home plans."
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782420627051_0",
+      "id": "q_auto_1782914000369_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782420627051_1",
+      "id": "q_auto_1782914000369_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782420627051_2",
+      "id": "q_auto_1782914000369_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
