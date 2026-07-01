@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>Dinner for Two</span> at Basha Restobar in London!",
-    "heroSubheadline": "Taste rich, bold flavors that feel like home. $300 value. Limited time. Entries close July 24, 2026.",
+    "heroSubheadline": "Taste rich, bold flavours that stand out from the everyday. $300 value. Limited time. Entries close July 24, 2026.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Screenshot2026-06-25at2.07.45PM.png",
     "promotionDates": "Enter June 26, 2026 to July 24, 2026. Winner drawn July 25, 2026.",
     "endDate": "2026-07-25T03:59:00.000Z",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1782914000369_0",
+      "id": "q_auto_1782915007496_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782914000369_1",
+      "id": "q_auto_1782915007496_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1782914000369_2",
+      "id": "q_auto_1782915007496_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
